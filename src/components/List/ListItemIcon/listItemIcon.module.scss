@@ -1,0 +1,18 @@
+.container
+{
+    cursor: pointer;
+    padding: 8px;
+    text-align: left;
+    height:"8rem";
+    width:"8rem";
+    display:"flex";
+    justify-content: center;
+    align-items:"center";
+    font-size:"2rem";
+    .image
+    {
+        height: 4rem;
+        width: 4rem;
+        border-radius: 50%;
+    }
+}

@@ -1,0 +1,15 @@
+.Button {
+  cursor: pointer;
+  padding: 8px;
+  text-align: left;
+  display: flex;
+  color: rgb(0, 0, 0);
+  box-sizing: border-box;
+  font-family: "Roboto-Regular";
+  text-decoration: none;
+  font-family: "Roboto-Regular";
+}
+
+.Button:hover {
+  background-color: rgba(170, 172, 166, 0.14);
+}
